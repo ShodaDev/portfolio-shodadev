@@ -26,6 +26,10 @@
   color: #a3a3a3;
 }
 
+li {
+  text-align: center;
+}
+
 .heading {
   font-size: 2rem;
   font-weight: 700;
